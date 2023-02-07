@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name": "Andrus Chen",
+    "occupation": " Full Stack Software Engineer",
+    "description": " currently employed by ",
+    "employer": "",
+    "jobDescription": "push pixels, shuffle data, and slap my keyboard until everything works",
+    "image": "Modified_.jpg",
+    "bio": "As a teenager at school, I was the kid other students approached about issues with their phones or laptop. I was the go-to guy for fixing any technical problems. Today, not much has changed. I’m still the first point of call for technical issues. The difference is I now also develop innovative software to solve the problems of multinational companies. One of my most recent projects involved designing and rolling out a new piece of software to optimize the efficiency of making better decisions for real estate professionals. In my spare time, I try to learn new technologies and best practices which really keep me up-to-date and growing up all the time.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "AndrusChen0106@gmail.com",
+    "phone": "(372) 602-7680",
+    "address": {
+      "street": "Viru 16",
+      "city": "Tallinn",
+      "state": "Harjumaa",
+      "zip": "10319"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1AbfzJWH9H2BV_tQiQOIlnNctKE2vXuX3/view",
+    "social": [
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/andrus-chen-831662259/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/AndrusChen",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am passionate to learn new technologies and best practices, so this really keeps myself up-to-date and keep me growing all the time.",
+    "education": [
+      {
+        "school": "Lingnan University",
+        "degree": "Bachelors in Computer Science, Software Engineering Option",
+        "graduated": "October 2014",
+        "description": "Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
+      }
+    ],
+    "work": [
+      {
+        "company": "Top Hap",
+        "title": "Full Stack Software Engineer",
+        "years": "07/2019 - 11/2022",
+        "description": "As a Front-End Developer, I built this application from the beginning, obviously, I set up their infrastructure and built all the pages and components using React and Redux. At first I made a contract with them as a front-end developer, but I am quite good at server-side as well. After a certain period, they wanted me to work on their back-end development. It’s using serverless architecture with Node and AWS Lambda. So I Assisted in developing server-based Node.js & AWS software by providing inputs and insights, acquiring a 15% increase in the quality of overall work."
+      },
+      {
+        "company": "True Prodigy Tech Solution ",
+        "title": "Senior Front End Developer",
+        "years": "04/2017 - 06/2020",
+        "description": "In this project, we built this system from the ground-up using seven differentiating technologies including cloud-computing web app with Open API, BPM and Workflow Enabled API, Data Visualizations for Dashboard Concepts, Mobile Desktop Ready, Machine Learning and API Algorithms, Integration with other cloud-computing apps and On-demand scalability and high availability technologies. As a frontend developer, I used React Hooks and Redux/Redux Saga to build UIs. Building this system, we used Apollo GraphQL for backend APIs because it has complex data structure and we need many API methods."
+      },
+      {
+        "company": "Systematix Infotech Pvt",
+        "title": "Front End Developer",
+        "years": "10/2015 - 03/2017",
+        "description": "While working in this company I optimized a front-end app performance to 80% efficiency using profilers and dubbing. Also implemented webhooks to achieve asynchronous and real-time data communication between the server and client using the polling method and Redux-Saga. And I used higher-order component (HOC) to implement a user authentication module to restrict users' access to certain pages."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Js",
+        "image": "react.jpg"
+      },
+      {
+        "name": "AWS",
+        "image": "aws.png"
+      },
+      {
+        "name": "Node JS",
+        "image": "node.jpg"
+      },
+      {
+        "name": "JavaScript",
+        "image": "js.png"
+      },
+      {
+        "name": "TypeScript",
+        "image": "ts.png"
+      },
+      {
+        "name": "Bootstrap 4",
+        "image": "bootstrap.jpg"
+      },
+      {
+        "name": "Angular",
+        "image": "angular.png"
+      },
+      {
+        "name": "Vue",
+        "image": "vue.png"
+      },
+      {
+        "name": "Cypress",
+        "image": "cypress.jpg"
+      },
+      {
+        "name": "HTML5",
+        "image": "html.png"
+      },
+      {
+        "name": "Elastic Search",
+        "image": "elastic.png"
+      },
+      {
+        "name": "Redux",
+        "image": "redux.png"
+      },
+      {
+        "name": "MongoDB",
+        "image": "mongo.jpg"
+      },
+      {
+        "name": "Laravel",
+        "image": "laravel.png"
+      },
+      {
+        "name": "CSS3",
+        "image": "css.png"
+      },
+      {
+        "name": "Git",
+        "image": "git.jpg"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Intelligent Market Platform",
+        "category": "Intelligent Market Platform for real estate professionals",
+        "image": "TopHap.jpg",
+        "url": "https://www.tophap.com/"
+      },
+      {
+        "title": "Cloud Augmented Mass Appraisal",
+        "category": "The model for property appraisal standards in our industry",
+        "image": "trueProdigy.jpg",
+        "url": "https://trueprodigy.com/"
+      },
+      {
+        "title": "Systematix Infotech Pvt",
+        "category": "Digital breakthroughs to transform your business",
+        "image": "systematix.jpg",
+        "url": "https://www.softude.com/"
+      },
+      {
+        "title": "Discord bot",
+        "category": "Create a library that would simplify discord bot creation for developers",
+        "image": "Discord.jpg",
+        "url": "https://github.com/AndrusChen/Discord-bot/tree/main"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have had the opportunity to work with Andrus on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Andrus excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user": "Nikola Matic - Web Developer at SwyftPain"
+      }
+    ]
+  }
+}
