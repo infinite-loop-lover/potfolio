@@ -17,9 +17,8 @@
       "zip": "10319"
     },
     "website": "https://andruschen.github.io/potfolio/#home",
-    "resumedownload": "https://drive.google.com/file/d/1AbfzJWH9H2BV_tQiQOIlnNctKE2vXuX3/view",
+    "resumedownload": "https://drive.google.com/file/d/1z087VX2q4-szI2ANGlVok0oJZOmb-zMt/view",
     "social": [
-      
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/andrus-chen-831662259/",
@@ -44,22 +43,22 @@
     ],
     "work": [
       {
-        "company": "Top Hap",
-        "title": "Full Stack Software Engineer",
-        "years": "07/2019 - 11/2022",
-        "description": "As a Front-End Developer, I built this application from the beginning, obviously, I set up their infrastructure and built all the pages and components using React and Redux. At first I made a contract with them as a front-end developer, but I am quite good at server-side as well. After a certain period, they wanted me to work on their back-end development. It’s using serverless architecture with Node and AWS Lambda. So I Assisted in developing server-based Node.js & AWS software by providing inputs and insights, acquiring a 15% increase in the quality of overall work."
-      },
-      {
-        "company": "True Prodigy Tech Solution ",
-        "title": "Senior Front End Developer",
-        "years": "04/2017 - 06/2020",
-        "description": "In this project, we built this system from the ground-up using seven differentiating technologies including cloud-computing web app with Open API, BPM and Workflow Enabled API, Data Visualizations for Dashboard Concepts, Mobile Desktop Ready, Machine Learning and API Algorithms, Integration with other cloud-computing apps and On-demand scalability and high availability technologies. As a frontend developer, I used React Hooks and Redux/Redux Saga to build UIs. Building this system, we used Apollo GraphQL for backend APIs because it has complex data structure and we need many API methods."
-      },
-      {
-        "company": "Systematix Infotech Pvt",
+        "company": "DLT Science Foundation",
         "title": "Front End Developer",
-        "years": "10/2015 - 03/2017",
-        "description": "While working in this company I optimized a front-end app performance to 80% efficiency using profilers and dubbing. Also implemented webhooks to achieve asynchronous and real-time data communication between the server and client using the polling method and Redux-Saga. And I used higher-order component (HOC) to implement a user authentication module to restrict users' access to certain pages."
+        "years": "09/2022 - 07/2023",
+        "description": "Results-driven Front End Engineer at DLT Science Foundation, optimizing analytics dashboard performance, integrating advanced chart features, and ensuring scalability through AWS deployment. Elevated performance and user experience by developing a Next.js frontend for analytics dashboard and coin data, resulting in a 40% increase in page loading speed. Enhanced stock chart capabilities by seamlessly integrating Highchart.js, enabling advanced data visualization options. Achieved a 30% improvement in data retrieval efficiency by utilizing AWS S3 to fetch and generate time series values for the stock chart. Ensured seamless and reliable user access with a successful deployment of the frontend on AWS Amplify and Vercel, resulting in a 99.9% uptime rate. Boosted WordPress site performance and security through meticulous refactoring on AWS EC2, leading to a 25% reduction in loading time and enhanced data protection. Collaborated seamlessly with a team of five developers using Agile methodology and Notion board, expediting project completion by 20%. Demonstrated expertise in problem-solving by swiftly resolving complex technical issues, maintaining uninterrupted frontend functionality and minimizing downtime."
+      },
+      {
+        "company": "NIGRUM-TECH GbR",
+        "title": "Full Stack Software Engineer",
+        "years": "04/2020 - 07/2022",
+        "description": "Accomplished full-stack developer spearheading the design and implementation of an innovative automatic restaurant ordering system. ● Orchestrated the creation of an automatic restaurant ordering system, meticulously designing the database and employing Java Spring Boot for backend development, resulting in a 40% reduction in order processing time. ● Developed an Android app tailored for smartwatches, empowering restaurant waiters with efficient order management capabilities, contributing to a 25% increase in order accuracy. ● Strategically integrated backend systems with table-installed order buttons, ensuring real-time synchronization and achieving a seamless dining experience for customers, resulting in a 15% decrease in order turnaround time. ● Utilized Angular to craft a user-friendly front-end interface, providing restaurant managers with intuitive controls for overseeing operations, ultimately leading to a 30% improvement in overall managerial efficiency. ● Introduced Install Wizard to simplify initial setup for managers. ● Innovated a statistical module producing dynamic daily, weekly, and monthly employee reports with visual graphs, resulting in a 20% increase in staff productivity. ● Created an efficient Sendinblue API-based email system, reducing data dissemination time by 30% and enhancing decision-making and communication"
+      },
+      {
+        "company": "Top Hap",
+        "title": "Front End Developer",
+        "years": "07/2017 - 02/2020",
+        "description": "Experienced React developer driving UI enhancements and efficient API calls. ● Developed front end with React.js, Implemented Redux data structure, and made APIs calls with redux-thunk. ● Built 100+ components in React using NodeJS asynchronous methods. ● Redesigned our website—increasing visitor clicks by 37% and customer referrals by 12%. ● Assisted in developing server-based Node.js & AWS software by providing inputs and insights, acquiring a 15% increase in the quality of overall work. ● Implemented search functionality using Elasticsearch—decreasing overall service latency by 25.6%"
       }
     ],
     "skills": [
@@ -127,7 +126,6 @@
         "name": "Git",
         "image": "git.jpg"
       }
-      
     ]
   },
   "portfolio": {
